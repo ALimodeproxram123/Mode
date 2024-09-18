@@ -1,3 +1,3 @@
 ## Installation
 
-You can install the package using pip:
+You can install the package using pip
